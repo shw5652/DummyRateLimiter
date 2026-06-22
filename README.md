@@ -19,10 +19,10 @@ Validated under simulated network stress using Postman to fire consecutive, zero
 - **Observed Sequence:** `6 OK -> 6 Blocked (429) -> 1 OK -> 2 Blocked`. This empirically proves that token replenishment maps accurately to elapsed system time metrics without synchronization drifts.
 
 ## Snapshots
-- <img width="1480" height="842" alt="image" src="https://github.com/user-attachments/assets/8fca1bcb-d5ab-4e10-8a60-b2822cd278e3" />
-- <img width="1481" height="837" alt="image" src="https://github.com/user-attachments/assets/ae4ac1b7-72fe-482b-a99f-494fd5440e09" />
-- <img width="1480" height="832" alt="image" src="https://github.com/user-attachments/assets/70390d8d-c3bb-4353-bf71-b4de58179227" />
-- <img width="1475" height="845" alt="image" src="https://github.com/user-attachments/assets/45a5a52f-7ad5-4125-b7e1-38fd6ea27b8e" />
+ <img width="1480" height="842" alt="image" src="https://github.com/user-attachments/assets/8fca1bcb-d5ab-4e10-8a60-b2822cd278e3" />
+ <img width="1481" height="837" alt="image" src="https://github.com/user-attachments/assets/ae4ac1b7-72fe-482b-a99f-494fd5440e09" />
+ <img width="1480" height="832" alt="image" src="https://github.com/user-attachments/assets/70390d8d-c3bb-4353-bf71-b4de58179227" />
+ <img width="1475" height="845" alt="image" src="https://github.com/user-attachments/assets/45a5a52f-7ad5-4125-b7e1-38fd6ea27b8e" />
 
 
 
